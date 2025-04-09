@@ -6,7 +6,7 @@
 
 ---
 
-## https://chatgpt.com/g/g-67f58d05b96c8191a8c4c3ffde03df2b-raccoon-osint-hunter
+
 
 ## 🚀 Características principales
 
@@ -34,7 +34,7 @@
 
 Podés acceder directamente desde la Tienda de GPTs de OpenAI:
 
-🔗 [**Acceder a Mapache OSINT Cazador**](#) *(enlace disponible pronto)*
+🔗 [**[Acceder a Mapache OSINT Cazador](https://chatgpt.com/g/g-67f58d05b96c8191a8c4c3ffde03df2b-raccoon-osint-hunter)**](#) *(enlace disponible pronto)*
 
 Una vez dentro, podés comenzar con comandos como:
 
