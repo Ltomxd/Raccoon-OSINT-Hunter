@@ -14,7 +14,7 @@
 - 🧠 Correlación de datos entre múltiples fuentes
 - 🖼 Reconocimiento facial y análisis de imágenes
 - 📁 Extracción de metadatos de documentos y fotos
-- 📄 Consulta y análisis de la base **ISSS JUNIO 2024**
+- 📄 Consulta y análisis de la base **ISSS JUNIO 2024** "con 153928 datos disponibles de momento " 
 - 💾 Base conectada y gestionada desde **Supabase**
 - 💡 Sugerencias de herramientas OSINT y Google Dorks
 - 🔐 Respuesta dentro de un marco ético y profesional
